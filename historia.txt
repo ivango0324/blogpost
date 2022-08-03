@@ -3,3 +3,5 @@ En este momento es el 03 de agosto de 2022
 
 Este cambio va después de crear el archivo blogspot.html
 y la carpeta CSS y el archivo estilos.css 
+
+ahora un último cambio después del anterior.
